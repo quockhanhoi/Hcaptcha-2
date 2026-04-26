@@ -1,3 +1,4 @@
 httpx
 undetected_chromedriver
 requests 
+distutils
